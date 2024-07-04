@@ -331,7 +331,7 @@ body{
   align-items: center;
   padding: 60px;
   top: 0px;
-  background-image: url('img/video.jpg');
+  background-image: url('https://preview.colorlib.com/theme/cakeshop/assets/img/gallery/video-bg.jpg');
   opacity: 0.9;
   background-position: center;
   background-repeat: no-repeat;
@@ -350,9 +350,9 @@ body{
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 70px;
-  border: 1px solid goldenrod;
+  border: 1px solid #e5bf4a;
   border-radius: 50%;
-  background-color: gold;
+  background-color: #e5bf4a;
   text-transform: uppercase;
   padding: 83px 93px;
   text-align: center;

@@ -130,7 +130,7 @@ body{
   align-items: center;
   padding: 60px;
   top: 0px;
-  background-image: url('img/h1_hero1.jpg');
+  background-image: url('https://preview.colorlib.com/theme/cakeshop/assets/img/hero/h1_hero1.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -224,7 +224,8 @@ body{
   list-style-type: none;
   flex-wrap: wrap;
   flex-direction: row;
-  position: relative;  
+  position: relative; 
+  margin-top: 176px; 
 }
 .hidden-btn{
   position: absolute;
@@ -339,6 +340,7 @@ body{
   width: 4000px;
   height: 1810px;
   margin-left: 1070px;
+  margin-top: 259px;
 }
 .video-temp{
   position: absolute;
@@ -373,7 +375,7 @@ body{
   font-size: 109px;
   text-align: center;
   font-weight: 40;
-  margin-top: 244px;
+  margin-top: 255px;
 }
 .rev-main{
   display: grid;
@@ -574,6 +576,7 @@ body{
   padding: 400px;
   text-align: center;
   margin-bottom: -299px;
+  margin-top: -44px;
 }
 .insta-access-btn button{
   color: gold;

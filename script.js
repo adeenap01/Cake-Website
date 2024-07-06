@@ -1,3 +1,6 @@
+const dayModeButton = document.querySelector('.day-mode');
+const nightModeButton = document.querySelector('.night-mode');
+const body = document.querySelector('body');
 
 // Function to toggle the dark mode
 function toggleDarkMode() {
